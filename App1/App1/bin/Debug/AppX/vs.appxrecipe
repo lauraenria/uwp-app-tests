@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UVTM754</Machine>
+    <WindowsUser>Laura</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4d3576ad-04b4-4fea-9b37-3516250b181c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Laura</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Laura\source\repos\App1\App1\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Laura\source\repos\App1\App1\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>2840F7DD3141BF3FF9223B7FBE07A16836688369ADF9EE3D564471AA34679E17</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4d3576ad-04b4-4fea-9b37-3516250b181c_1.0.0.0_neutral__bhrgt734xp76w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4d3576ad-04b4-4fea-9b37-3516250b181c_bhrgt734xp76w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4d3576ad-04b4-4fea-9b37-3516250b181c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Laura</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Laura\source\repos\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:26:01.589</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\LargeTile.scale-100.png">
+      <PackagePath>images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:32.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\LargeTile.scale-125.png">
+      <PackagePath>images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:32.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\LargeTile.scale-150.png">
+      <PackagePath>images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:33.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\LargeTile.scale-200.png">
+      <PackagePath>images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:33.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\LargeTile.scale-400.png">
+      <PackagePath>images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:33.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\SmallTile.scale-100.png">
+      <PackagePath>images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:29.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\SmallTile.scale-125.png">
+      <PackagePath>images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:30.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\SmallTile.scale-150.png">
+      <PackagePath>images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:30.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\SmallTile.scale-200.png">
+      <PackagePath>images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:30.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\SmallTile.scale-400.png">
+      <PackagePath>images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:30.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:36.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\splashscreen.scale-125.png">
+      <PackagePath>images\splashscreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:37.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\splashscreen.scale-150.png">
+      <PackagePath>images\splashscreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:37.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\splashscreen.scale-400.png">
+      <PackagePath>images\splashscreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:38.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:30.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square150x150Logo.scale-125.png">
+      <PackagePath>images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:31.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square150x150Logo.scale-150.png">
+      <PackagePath>images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:31.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:31.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:35.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:36.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:36.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:36.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:33.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.scale-125.png">
+      <PackagePath>images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:34.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.scale-150.png">
+      <PackagePath>images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:34.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.scale-400.png">
+      <PackagePath>images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:34.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:34.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:35.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:35.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:35.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:35.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:38.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\storelogo.scale-125.png">
+      <PackagePath>images\storelogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:38.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\storelogo.scale-150.png">
+      <PackagePath>images\storelogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:38.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\storelogo.scale-200.png">
+      <PackagePath>images\storelogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:38.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\storelogo.scale-400.png">
+      <PackagePath>images\storelogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:39.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:31.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Wide310x150Logo.scale-125.png">
+      <PackagePath>images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:31.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Wide310x150Logo.scale-150.png">
+      <PackagePath>images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:32.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Wide310x150Logo.scale-400.png">
+      <PackagePath>images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:32.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-10-23T15:10:08.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:37.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:31.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:34.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:36.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-23T15:10:08.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-10-24T16:18:32.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2019-10-24T11:39:44.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+      <Modified>2019-10-23T15:10:08.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\main.css">
+      <PackagePath>main.css</PackagePath>
+      <Modified>2019-10-24T11:29:19.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+      <Modified>2019-10-23T15:10:08.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\main.js">
+      <PackagePath>main.js</PackagePath>
+      <Modified>2019-10-24T11:51:06.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+      <Modified>2019-10-24T16:12:06.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Laura\source\repos\App1\App1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-10-24T16:26:01.500</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
